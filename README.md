@@ -34,7 +34,7 @@
 <h3 align="center">IDE</h3>
 <div align="center">
   
-    Visual Studio Code : ![Visual Studio App Center Releases](https://img.shields.io/visual-studio-app-center/releases/version/asd/asd/asd?logo=version&style=flat-square)
+    Visual Studio Code : <img src ="https://img.shields.io/visual-studio-app-center/releases/version/asd/asd/asd?logo=version&style=flat-square"/>
     Visual Studio      :
     Eclipse            :
     
