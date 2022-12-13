@@ -33,11 +33,11 @@
 </div>
 <h3 align="center">IDE</h3>
 <div align="center">
-    <pre>
+    
     Visual Studio Code
     Visual Studio
     Eclipse
-    </pre>
+    
 </div>
 <div align="center">
     <p>
