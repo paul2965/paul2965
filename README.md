@@ -1,22 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Gyeomii&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=paul2965&fontSize=90)
 
 <div align="center">
-    <p>
-        <a href="https://velog.io/@gyeomii" target="_blank">
-        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the/badge&logo=Velog&logoColor=FFFFFF"/>
-    </a>
-    <a href="https://www.instagram.com/gyeomii_/" target="_blank">
+    <a href="https://www.instagram.com/apfalk12/" target="_blank">
         <img src="https://img.shields.io/badge/gyeomii_-e94057?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
     </a>
-    <a href="https://github.com/gyeomii" target="_blank">
+    <a href="https://github.com/paul2965" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
     </a>
-    <a href="https://gyeomii.notion.site/a16e0b17813c429dac8faeeeaaf24383" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the/badge&logo=Notion&logoColor=FFFFFF"/>
-    </a>
-    </a>
-    <a href="mailto:kimsg7388@gmail.com" target="_blank">
+    <a href="mailto:paul2965@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the/badge&logo=Gmail&logoColor=FFFFFF"/>
     </a>
     </p>
