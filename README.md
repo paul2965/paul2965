@@ -32,10 +32,12 @@
     <img src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=Mysql&logoColor=white"/>
 </div>
 <h3 align="center">IDE</h3>
-<div>
-    <p>Visual Studio Code :</p>
-    <p>Visual Studio      :</p>
-    <p>Eclipse            :</p>
+<div align="center">
+  
+    Visual Studio Code :
+    Visual Studio      :
+    Eclipse            :
+    
 </div>
 <div align="center">
     <p>
