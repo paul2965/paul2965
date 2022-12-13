@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://www.instagram.com/apfalk12/" target="_blank">
-        <img src="https://img.shields.io/badge/gyeomii_-e94057?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
+        <img src="https://img.shields.io/badge/apfalk12_-e94057?style=for-the/badge&logo=Instagram&logoColor=FFFFFF"/>
     </a>
     <a href="https://github.com/paul2965" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the/badge&logo=GitHub&logoColor=FFFFFF"/>
