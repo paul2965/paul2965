@@ -33,11 +33,9 @@
 </div>
 <h3 align="center">IDE</h3>
 <div>
-  
-    Visual Studio Code :
-    Visual Studio      :
-    Eclipse            :
-    
+    <p>Visual Studio Code :</p>
+    <p>Visual Studio      :</p>
+    <p>Eclipse            :</p>
 </div>
 <div align="center">
     <p>
