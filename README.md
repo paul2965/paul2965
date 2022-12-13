@@ -31,6 +31,14 @@
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=Mysql&logoColor=white"/>
 </div>
+<h3 align="center">IDE</h3>
+<div align="center">
+    <pre>
+    Visual Studio Code
+    Visual Studio
+    Eclipse
+    </pre>
+</div>
 <div align="center">
     <p>
         <img align="center"
