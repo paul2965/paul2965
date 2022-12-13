@@ -29,6 +29,7 @@
 <h3 align="center">DB</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySql-F80000?style=for-the-badge&logo=Mysql&logoColor=white"/>
 </div>
 <div align="center">
     <p>
