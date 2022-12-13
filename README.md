@@ -1,5 +1,6 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=paul2965&fontSize=90)
+</div>
 
 <div align="center">
     <a href="https://www.instagram.com/apfalk12/" target="_blank">
