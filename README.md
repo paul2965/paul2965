@@ -38,7 +38,7 @@
     Electron           : 19.1.11
     Node               : 16.14.2
     NPM                : 6.14.15
-    NVM                : 1.1.11
+   NVM                : 1.1.11
     
 </div>
 <div align="center">
