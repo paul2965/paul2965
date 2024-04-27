@@ -40,7 +40,7 @@
     NPM                : 6.14.15
     NVM                : 1.1.11
     Intellij           : 2019.1
-    Eclipse            : Egov.3.10.0
+    Eclipse            : 3.10.0
     
 </div>
 <div align="center">
